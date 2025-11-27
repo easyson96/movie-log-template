@@ -62,10 +62,7 @@ Obsidian에서 쓰기 좋은 상세 템플릿과, 공유용으로 간결한 라�
 
 ## License
 
-이 저장소의 템플릿은 **Creative Commons Attribution 4.0 International (CC BY 4.0)** 라이선스를 따릅니다.
-
-- 이 템플릿은 자유롭게 복사·수정·재배포·상업적 활용이 가능합니다.
-- 다만, 원 저작자를 표시하고(예: 저장소 링크나 작성자 이름 명시), 수정·가공한 경우 그 사실을 밝혀야 합니다.
-- 라이선스 전문은 저장소 루트의 [BACKTICK]LICENSE[BACKTICK] 파일을 참고해 주세요.
+이 저장소의 템플릿은 **MIT License** 라이선스를 따릅니다.
+자세한 내용은 저장소 루트의 [BACKTICK]LICENSE[BACKTICK] 파일을 참고해 주세요.
 
 ---
