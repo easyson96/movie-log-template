@@ -63,6 +63,6 @@ Obsidian에서 쓰기 좋은 상세 템플릿과, 공유용으로 간결한 라�
 ## License
 
 이 저장소의 템플릿은 **MIT License** 라이선스를 따릅니다.
-자세한 내용은 저장소 루트의 [BACKTICK]LICENSE[BACKTICK] 파일을 참고해 주세요.
+자세한 내용은 저장소 루트의 `LICENSE` 파일을 참고해 주세요.
 
 ---
